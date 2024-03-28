@@ -1,0 +1,17 @@
+{
+    "name": "tokenizer/crypto-handler",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Tokenizer\\CryptoHandler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "YuigaKoike",
+            "email": "koike@irvinesystems.co.jp"
+        }
+    ],
+    "require": {}
+}
