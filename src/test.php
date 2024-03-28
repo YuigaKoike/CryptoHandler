@@ -2,7 +2,7 @@
 
 require_once 'CryptoHandler.php';
 
-use App\CryptoHandler;
+use Tokenizer\CryptoHandler\CryptoHandler;
 
 try {
     $cryptoHandler = new CryptoHandler(__DIR__ . "/../keystore/public_key_AP.pem", __DIR__ . "/../keystore/private_key_AP.pem");
