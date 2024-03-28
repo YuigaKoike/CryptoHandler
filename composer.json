@@ -1,7 +1,7 @@
 {
     "name": "tokenizer/crypto-handler",
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Tokenizer\\CryptoHandler\\": "src/"
